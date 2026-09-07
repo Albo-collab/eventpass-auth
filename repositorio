@@ -1,6 +1,0 @@
-src/main/java/com/eventpass/auth/AuthApplication.java
-src/main/java/com/eventpass/auth/controller/AuthController.java
-src/main/java/com/eventpass/auth/service/AuthService.java
-src/main/java/com/eventpass/auth/model/Usuario.java
-src/main/resources/application.properties
-pom.xml
